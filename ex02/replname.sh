@@ -1,0 +1,1 @@
+sed 's/Elliot/Tyrell/g' texte.txt
